@@ -8,6 +8,14 @@ en:
   # Uncomment for multi-lingual sites, and move English content into `en` sub-folder.
   #contentDir: content/en
 
+zh: # This is the new block
+  languageCode: zh-Hans
+  contentDir: content/zh
+  title: 菜鸟物流指南 # The Chinese title
+  linkTitle: 菜鸟
+  params:
+    description: 您的菜鸟国际物流指南
+
 # Uncomment the lines below to configure your website in a second language.
 #zh:
 #  languageCode: zh-Hans
